@@ -1,0 +1,141 @@
+Cdebug2019/04/27 13:36:18 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 13:36:18 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 13:36:18 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 13:36:18 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:07:47 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:07:47 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:07:47 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:07:47 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:07:47 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:07:47 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:09:12 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:13:20 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:13:56 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:28:33 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:30:18 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 14:31:11 Cloudlog.go:25: error:: json er+{
+    "edgeBrushCardModel":{
+        "departModuleId":"-1",
+        "readerId":"-1",
+        "employeeCode":"R00001",
+        "odid":"2000102",
+        "stepCode":"CAD01",
+        "IsRebruch":true,
+        "brushCardDate":"2019-04-25 15:40:17",
+        "IsCheck":true,
+        "OutCheck":true
+        "QCCheckID":0,
+        "employeeName":"admin",
+        "CardState":0,
+        "listCheckSize":[
+            {
+                "CheckPartName":"胸围",
+                "StandardSizeValue":"123.2",
+                "CheckedSizeValue":"120"
+            },
+            {
+                "CheckPartName":"中腰围",
+                "StandardSizeValue":"119.4",
+                "CheckedSizeValue":"115"
+            },
+            {
+                "CheckPartName":"臀围",
+                "StandardSizeValue":"121.9",
+                "CheckedSizeValue":"122"
+            },
+            {
+                "CheckPartName":"左袖长",
+                "StandardSizeValue":"64.8",
+                "CheckedSizeValue":"65"
+            },
+            {
+                "CheckPartName":"右袖长",
+                "StandardSizeValue":"64.8",
+                "CheckedSizeValue":"65"
+            },
+            {
+                "CheckPartName":"后衣长",
+                "StandardSizeValue":"81.3",
+                "CheckedSizeValue":"81"
+            },
+            {
+                "CheckPartName":"总肩宽",
+                "StandardSizeValue":"52.7",
+                "CheckedSizeValue":"53"
+            }
+        ],
+        "listCheckReason":[
+
+        ]
+    },
+    "sortCode":"",
+    "sortType":"",
+    "sysCode":"SS8866",
+    "orderCode":"CS0001"
+}
+
+
+Cdebug2019/04/27 17:07:00 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 true true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }
+Cdebug2019/04/27 17:07:45 Cloudlog.go:25: error:: json er+{
+    "edgeBrushCardModel":{
+        "departModuleId":"-1",
+        "readerId":"-1",
+        "employeeCode":"R00001",
+        "odid":"2000102",
+        "stepCode":"CAD01",
+        "IsRebruch":true,
+        "brushCardDate":"2019-04-25 15:40:17",
+        "IsCheck":false,
+        "OutCheck":true,
+        "QCCheckID":0,
+        "employeeName":"admin",
+        "CardState":0,
+        "listCheckSize":[
+            {
+                "CheckPartName":"胸围",
+                "StandardSizeValue":"123.2",
+                "CheckedSizeValue":"120"
+            },
+            {
+                "CheckPartName":"中腰围",
+                "StandardSizeValue":"119.4",
+                "CheckedSizeValue":"115"
+            },
+            {
+                "CheckPartName":"臀围",
+                "StandardSizeValue":"121.9",
+                "CheckedSizeValue":"122"
+            },
+            {
+                "CheckPartName":"左袖长",
+                "StandardSizeValue":"64.8",
+                "CheckedSizeValue":"65"
+            },
+            {
+                "CheckPartName":"右袖长",
+                "StandardSizeValue":"64.8",
+                "CheckedSizeValue":"65"
+            },
+            {
+                "CheckPartName":"后衣长",
+                "StandardSizeValue":"81.3",
+                "CheckedSizeValue":"81"
+            },
+            {
+                "CheckPartName":"总肩宽",
+                "StandardSizeValue":"52.7",
+                "CheckedSizeValue":"53"
+            }
+        ],
+        "listCheckReason":[
+
+        ]
+    },
+    "sortCode":"",
+    "sortType":"",
+    "sysCode":"SS8866",
+    "orderCode":"CS0001"
+}
+
+
+Cdebug2019/04/27 17:09:47 Cloudlog.go:25: bruhdata: {{-1 -1 R00001 2000102 CAD01 true 2019-04-25 15:40:17 false true admin [{ 胸围 123.2 120} { 中腰围 119.4 115} { 臀围 121.9 122} { 左袖长 64.8 65} { 右袖长 64.8 65} { 后衣长 81.3 81} { 总肩宽 52.7 53}] []}   SS8866 CS0001 }

@@ -1,0 +1,68 @@
+Cdebug2019/06/04 08:52:00 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 09:20:49 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="" and OrgCode="a" and OwnMonth="2019/62019" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 09:20:49 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 09:24:04 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="" and OrgCode="a" and OwnMonth="2019/62019" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 09:24:04 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 09:25:31 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 09:25:31 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="" and OrgCode="a" and OwnMonth="2019/62019" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 09:25:31 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 09:28:07 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 09:28:07 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="2019/62019" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 09:28:07 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 09:35:08 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 09:35:08 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="2019/62019" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 09:35:08 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 09:40:41 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 09:40:41 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="2019/62019" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 09:40:41 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 09:55:21 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 09:55:21 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="2019/62019" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 09:55:21 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 13:34:39 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 13:34:39 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="2019/62019" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 13:34:39 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 14:01:20 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:01:20 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="2019/62019" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 14:01:20 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 14:07:05 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:07:05 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="2019/62019" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 14:07:05 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 14:12:21 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:12:21 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="20192019/6" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 14:12:22 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 14:12:34 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:12:34 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="20192019/6" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 14:12:34 Cloudlog.go:26: montdata: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?' at line 1
+Cdebug2019/06/04 14:12:34 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 14:14:53 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:14:53 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="20192019/6" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 14:14:53 Cloudlog.go:26: montdata: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?' at line 1
+Cdebug2019/06/04 14:14:53 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/04 14:15:43 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:15:43 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="20192019/6" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 14:15:43 Cloudlog.go:26: montdata: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?' at line 1
+Cdebug2019/06/04 14:15:43 Cloudlog.go:26: monthdata: {a b 1 32 da  123 2019/6 2019}
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="20192019/6" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: montdata: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?' at line 1
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: monthdata: {a b 1 32 da  123 2019/6 2019}
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="20192019/6" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: montdata: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?' at line 1
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: monthdata: {a b 1 32 da  123 2019/6 2019}
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="20192019/6" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: montdata: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?' at line 1
+Cdebug2019/06/04 14:25:21 Cloudlog.go:26: monthdata: {a b 1 32 da  123 2019/6 2019}
+Cdebug2019/06/04 14:27:02 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:27:02 Cloudlog.go:26: str: select * from  Work_MonthCountDeptment where tenantId ="f001" and OrgCode="a" and OwnMonth="20192019/6" and MESSort="da" and StepCode="123"
+Cdebug2019/06/04 14:27:02 Cloudlog.go:26: monthdata: {a b 1 32 da  123 2019/6 2019}
+Cdebug2019/06/04 14:28:59 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:28:59 Cloudlog.go:26: str: UPDATE Work_MonthCountDeptment SET OutputSum=?,UpdateDate= ? where tenantId=? and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?
+Cdebug2019/06/04 14:28:59 Cloudlog.go:26: monthdata: {a b 1 32 da  123 2019/6 2019}
+Cdebug2019/06/04 14:36:21 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:36:21 Cloudlog.go:26: str: UPDATE Work_MonthCountDeptment SET OutputSum=?,UpdateDate= ? where tenantId=? and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?
+Cdebug2019/06/04 14:36:21 Cloudlog.go:26: monthdata: {a b 1 38 da  123 2019/6 2019}
+Cdebug2019/06/04 14:37:54 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/04 14:37:54 Cloudlog.go:26: str: UPDATE Work_MonthCountDeptment SET OutputSum=?,UpdateDate= ? where tenantId=? and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?
+Cdebug2019/06/04 14:37:54 Cloudlog.go:26: monthdata: {a b 1 38 da  123 2019/6 2019}

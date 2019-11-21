@@ -1,0 +1,88 @@
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:54 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:55 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:34:57 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:34:57 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:34:57 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:34:57 Cloudlog.go:26: stock: [{2 T011 1}]
+Cdebug2019/06/19 08:35:00 Cloudlog.go:26: 111: [{2 T011 1}]
+Cdebug2019/06/19 08:35:00 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueoverstockf001"
+Cdebug2019/06/19 08:35:00 Cloudlog.go:26: OverStock str: select * from MESforCloud.Work_TeamOverStock where OrganizeCode= "T011" and OrganizeType= "2" and tenantId="f001"
+Cdebug2019/06/19 08:35:00 Cloudlog.go:26: stock: [{2 T011 1}]

@@ -1,0 +1,11 @@
+Cdebug2019/06/03 15:39:53 Cloudlog.go:26: error:: runtime error: invalid memory address or nil pointer dereference
+Cdebug2019/06/03 16:25:50 Cloudlog.go:26: error:: runtime error: invalid memory address or nil pointer dereference
+Cdebug2019/06/03 16:27:37 Cloudlog.go:26: error:: runtime error: invalid memory address or nil pointer dereference
+Cdebug2019/06/03 16:36:31 Cloudlog.go:26: month: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selecft * from  Work_MonthCountDeptmentwhere tenantId =""and OrgCode="a"and OwnM' at line 1
+Cdebug2019/06/03 16:39:24 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/03 16:53:20 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/03 16:58:06 Cloudlog.go:26: month: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'selecft * from  Work_MonthCountDeptment where tenantId =""and OrgCode="a"and Own' at line 1
+Cdebug2019/06/03 16:59:21 Cloudlog.go:26: month: Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '"' at line 1
+Cdebug2019/06/03 17:03:23 Cloudlog.go:26: montdata: Error 1146: Table 'MESforCloud.intoWork_MonthCountDeptment' doesn't exist
+Cdebug2019/06/03 17:05:01 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/03 17:06:21 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}

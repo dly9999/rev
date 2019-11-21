@@ -1,0 +1,12 @@
+Cdebug2019/06/05 09:06:16 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/05 09:06:16 Cloudlog.go:26: str: UPDATE Work_MonthCountDeptment SET OutputSum=?, UpdateDate= ? where tenantId=? and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?
+Cdebug2019/06/05 09:06:16 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/05 09:08:42 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/05 09:08:42 Cloudlog.go:26: str: UPDATE Work_MonthCountDeptment SET OutputSum=?, UpdateDate= ? where tenantId=? and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?
+Cdebug2019/06/05 09:08:42 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/05 09:09:44 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/05 09:09:44 Cloudlog.go:26: str: UPDATE Work_MonthCountDeptment SET OutputSum=?, UpdateDate= ? where tenantId=? and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?
+Cdebug2019/06/05 09:09:44 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
+Cdebug2019/06/05 09:11:35 Cloudlog.go:26: strselect:  select tenantid from  MESforCloud.FactoryQueueAdmin where queuename = "queueupmonthcountf001"
+Cdebug2019/06/05 09:11:35 Cloudlog.go:26: str: UPDATE Work_MonthCountDeptment SET OutputSum=?, UpdateDate= ? where tenantId=? and OrgCode=? and OwnMonth= ? and StepCode= ? and MESSort= ?
+Cdebug2019/06/05 09:11:35 Cloudlog.go:26: monthdata: {a b 1 342 da  123 2019/6 2019}
